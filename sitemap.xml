@@ -1,15 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://bartoszchmielecki.com/</loc>
-    <lastmod>2025-03-18</lastmod>
-  </url>
-  <url>
-    <loc>https://bartoszchmielecki.com/polityka-prywatnosci</loc>
-    <lastmod>2025-03-18</lastmod>
-  </url>
-
+<url>
+<loc>https://bartoszchmielecki.com/</loc>
+<lastmod>2025-03-24</lastmod>
+</url>
+<url>
+<loc>https://bartoszchmielecki.com/polityka-prywatnosci</loc>
+<lastmod>2025-03-24</lastmod>
+</url>
+<url>
+<loc>https://bartoszchmielecki.com/blog</loc>
+<lastmod>2025-03-24</lastmod>
+</url>
+<url>
+<loc>https://bartoszchmielecki.com/blog/jaka-strone-internetowa-wybrac-dla-swojej-firmy</loc>
+<lastmod>2025-03-24</lastmod>
+</url>
+<url>
+<loc>https://www.bartoszchmielecki.com/blog/jak-zlecic-wykonanie-strony-internetowej-praktyczny-poradnik</loc>
+<lastmod>2025-03-30</lastmod>
+</url>
+<url>
+<loc>http://localhost:5173/blog/jak-blog-wplywa-na-widocznosc-twojej-strony-strona-internetowa-z-blogiem</loc>
+<lastmod>2025-04-06</lastmod>
+</url>
 </urlset>
-
-
-
