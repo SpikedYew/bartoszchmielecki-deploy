@@ -1,4 +1,7 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
+Allow: /
 Disallow : /polityka-prywatnosci
 Disallow : /404
+
+Sitemap: https://www.bartoszchmielecki.com/sitemap.xml
